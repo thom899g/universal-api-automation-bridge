@@ -1,0 +1,14 @@
+[
+    {
+        "id": "api1",
+        "name": "API1 Service",
+        "url": "http://api1.com/swagger.json",
+        "schema_path": "/path/to/api1 swagger.json"
+    },
+    {
+        "id": "api2",
+        "name": "API2 Service",
+        "url": "http://api2.com/swagger.json",
+        "schema_path": "/path/to/api2 swagger.json"
+    }
+]
